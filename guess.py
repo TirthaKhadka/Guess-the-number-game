@@ -4,7 +4,7 @@ print("Hi welcome to the game, This is a number guessing game.\nYou got 7 chance
 
 number_to_guess = random.randrange(100)
 
-chances = 7
+chances = 8
 
 guess_counter = 0
 
